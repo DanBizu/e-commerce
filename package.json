@@ -1,0 +1,26 @@
+{
+  "name": "e-commerce-web-components",
+  "version": "1.0.0",
+  "description": "Test web components into e-commerce websites",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web_components",
+    "web",
+    "e-commerce"
+  ],
+  "author": "Dan Bizu",
+  "license": "ISC",
+  "dependencies": {
+    "lit-element": "^2.4.0"
+  },
+  "browserslist": [
+    "last 1 Chrome version"
+  ],
+  "devDependencies": {
+    "parcel": "^2.0.0-beta.2"
+  }
+}
